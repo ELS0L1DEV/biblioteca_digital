@@ -11,4 +11,4 @@ el cual esta en el archivo zip que se encuentra a continuacion en dicho reposito
 --Rodriguez Fernando.
 --Maya Martinez Esteban.
 --Gonzalez Garcia Jose Angel.
---Espinoza Palacios Stephany.
+-- Mejia Morales Jonathan Mishel.
