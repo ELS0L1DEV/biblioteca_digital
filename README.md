@@ -2,10 +2,15 @@
 
 ## El proyecto esta hecho por
 Naranjo Torres Joshua Emmanuel
+<br>
 Maya Martínez Esteban.
+<br>
 Rodríguez Fernando.
+<br>
 González García José Ángel.
+<br>
 Espinoza Palacios Stephany.
+<br>
 Mejia Morales Jonathan Mishel. 
 
 ## Especificaciones:
@@ -72,9 +77,9 @@ y registre el historial de préstamos de cada usuario, utilizando Android Studio
 ## Tablas de flujo:
 <br>
 
-## Registrar prestamo (Alumno):
+## Registrar prestamo (Student):
 ![image](https://github.com/user-attachments/assets/bed93ecd-1f88-480a-8535-d29261f06ad9)
-## Ver prestamo(s) (Alummno):
+## Ver prestamo(s) (Student):
 ![image](https://github.com/user-attachments/assets/488fc900-bed1-4a86-b859-575abbb853bd)
 ## Verificar préstamo(s) (Administrador):
 ![image](https://github.com/user-attachments/assets/833f24ba-67f0-42dc-8ac3-8dc94a43e3dd)
@@ -87,7 +92,7 @@ y registre el historial de préstamos de cada usuario, utilizando Android Studio
 ## Eliminar libro:
 ![image](https://github.com/user-attachments/assets/63ebcf37-77e2-4053-b068-0af5c45be719)
 
-✅ Conclusión
+## ✅ Conclusión
 Este proyecto representa un paso significativo hacia la digitalización de los servicios bibliotecarios del TESCo, mejorando la experiencia de estudiantes y personal académico mediante 
 una aplicación móvil moderna, eficiente y segura. Al integrar tecnologías como Android Studio y Azure Cosmos DB, se logra una solución escalable y accesible que responde a las 
 necesidades reales de la comunidad escolar. Con este desarrollo, se fortalece el compromiso institucional con la innovación tecnológica y la optimización de procesos educativos.
