@@ -1,14 +1,71 @@
-## Buen dia profesor Ovando
+## Bienvenido al repositorio para el proyecto de la materia de Verificacion y Validacion de Software
+
+## El proyecto esta hecho por:
+--	Naranjo Torres Joshua Emmanuel
+-- Maya Martínez Esteban.
+--Rodríguez Fernando.
+--González García José Ángel.
+--Espinoza Palacios Stephany.
+--Mejia Morales Jonathan Mishel. 
+--
+## Especificaciones:
+<br>
+<br>
+## Introduccion
+Este proyecto consiste en el desarrollo de una aplicación móvil para la biblioteca del Tecnológico de Estudios Superiores de Coacalco (TESCo), 
+utilizando Android Studio como entorno de desarrollo y Azure Cosmos DB como base de datos en la nube. 
+La aplicación tiene como objetivo optimizar la gestión de préstamos, mejorar el acceso a la información bibliográfica 
+y brindar una mejor experiencia a los estudiantes y usuarios de la biblioteca mediante herramientas tecnológicas modernas.
 
 
-En este repositorio se encuentra nuestro avance del proyecto de la materia de Validacion y Verificacion de Software
-el cual esta en el archivo zip que se encuentra a continuacion en dicho repositorio.
+## 2. Objetivos
+## Objetivo General
+Desarrollar una aplicación móvil para la biblioteca del TESCo que facilite la gestión de préstamos de libros,
+permita la búsqueda y reserva en línea de material bibliográfico, muestre información detallada de los libros disponibles 
+y registre el historial de préstamos de cada usuario, utilizando Android Studio para el desarrollo y Azure Cosmos DB como base de datos en la nube.
+
+## Objetivos Específicos
+1.	Implementar un sistema de registro y autenticación para usuarios (alumnos y docentes), permitiendo la creación de perfiles personalizados.
+2.	Desarrollar un módulo de búsqueda y reserva de libros, facilitando el acceso al catálogo bibliográfico desde la aplicación.
+3.	Diseñar una interfaz intuitiva y funcional que permita a los usuarios consultar la disponibilidad de libros y realizar reservaciones.
+4.	Crear un historial de préstamos para cada usuario, registrando fechas de préstamo, devoluciones y renovaciones.
+5.	Integrar un sistema de notificaciones push para recordar fechas de devolución, vencimientos o reservas disponibles.
+6.	Optimizar el almacenamiento de datos mediante Azure Cosmos DB, garantizando la seguridad y disponibilidad de la información en la nube.
+7.	Desarrollar un módulo de administración para el personal de la biblioteca, con funciones como registrar nuevos libros, actualizar información y gestionar reservas.
+
+## 4. Funcionalidades Principales
+4.1. Registro y Gestión de Usuarios
+•	Registro de alumnos y docentes con datos personales y credenciales institucionales.
+•	Creación de perfiles individuales con historial de préstamos y reservas.
+•	Autenticación de usuarios mediante correo institucional y contraseña.
+4.2. Consulta y Reserva de Libros
+•	Búsqueda de libros por título, autor, categoría o ISBN.
+•	Visualización de disponibilidad y ubicación dentro de la biblioteca.
+•	Opción de reservar libros desde la aplicación.
+4.3. Historial de Préstamos
+•	Registro de todos los libros prestados, con fechas de préstamo y devolución.
+•	Posibilidad de renovar préstamos desde la aplicación.
+•	Control del estado de cada libro (prestado, disponible, en espera).
+ 4.4. Notificaciones y Recordatorios
+•	Notificaciones push para recordar fechas de devolución y disponibilidad de reservas.
+•	Alertas sobre nuevos libros o materiales agregados a la biblioteca.
+•	Comunicaciones institucionales desde la biblioteca hacia los usuarios.
+ 4.5. Gestión Administrativa
+•	Módulo para personal de la biblioteca con funciones como agregar, editar o eliminar libros.
+•	Administración de reservas, devoluciones y renovaciones.
+•	Reportes básicos de uso y estadísticas de préstamos.
+4.6. Integración con Azure Cosmos DB
+•	Almacenamiento seguro y estructurado de todos los datos de usuarios, libros y préstamos.
+•	Sincronización en tiempo real entre múltiples dispositivos.
+•	Escalabilidad y alta disponibilidad garantizada mediante la nube.
+## 5. Tecnologías Utilizadas
+•	Android Studio: Desarrollo nativo en Java/Kotlin.
+•	Firebase Authentication: Para registro e inicio de sesión seguro.
+•	Google Books API (opcional): Para enriquecer la información de libros.
+•	Azure Cosmos DB: Base de datos NoSQL en la nube para almacenar información de usuarios y libros.
+•	FCM (Firebase Cloud Messaging): Para el envío de notificaciones push.
 
 
+## Diagrama de caso de uso:
+![image](https://github.com/user-attachments/assets/d2ffd7d4-fd6d-49dd-8c53-f74afc438150)
 
-## Integrantes:
--- Naranjo Torres Joshua Emannuel.
---Rodriguez Fernando.
---Maya Martinez Esteban.
---Gonzalez Garcia Jose Angel.
--- Mejia Morales Jonathan Mishel.
