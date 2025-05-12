@@ -1,16 +1,16 @@
 ## Bienvenido al repositorio para el proyecto de la materia de Verificacion y Validacion de Software
 
-## El proyecto esta hecho por:
---	Naranjo Torres Joshua Emmanuel
--- Maya Martínez Esteban.
---Rodríguez Fernando.
---González García José Ángel.
---Espinoza Palacios Stephany.
---Mejia Morales Jonathan Mishel. 
---
+## El proyecto esta hecho por
+Naranjo Torres Joshua Emmanuel
+Maya Martínez Esteban.
+Rodríguez Fernando.
+González García José Ángel.
+Espinoza Palacios Stephany.
+Mejia Morales Jonathan Mishel. 
+
 ## Especificaciones:
 <br>
-<br>
+
 ## Introduccion
 Este proyecto consiste en el desarrollo de una aplicación móvil para la biblioteca del Tecnológico de Estudios Superiores de Coacalco (TESCo), 
 utilizando Android Studio como entorno de desarrollo y Azure Cosmos DB como base de datos en la nube. 
@@ -68,4 +68,28 @@ y registre el historial de préstamos de cada usuario, utilizando Android Studio
 
 ## Diagrama de caso de uso:
 ![image](https://github.com/user-attachments/assets/d2ffd7d4-fd6d-49dd-8c53-f74afc438150)
+
+## Tablas de flujo:
+<br>
+
+## Registrar prestamo (Alumno):
+![image](https://github.com/user-attachments/assets/bed93ecd-1f88-480a-8535-d29261f06ad9)
+## Ver prestamo(s) (Alummno):
+![image](https://github.com/user-attachments/assets/488fc900-bed1-4a86-b859-575abbb853bd)
+## Verificar préstamo(s) (Administrador):
+![image](https://github.com/user-attachments/assets/833f24ba-67f0-42dc-8ac3-8dc94a43e3dd)
+## Registrar devolución (Administrador):
+![image](https://github.com/user-attachments/assets/718774c9-647b-4920-933f-32f11c22117d)
+## Gestionar libros (Administrador):
+![image](https://github.com/user-attachments/assets/6dde9983-d6bf-4fa9-a800-b17766b2e526)
+## Modificar libro:
+![image](https://github.com/user-attachments/assets/40736b9a-7ec9-4d13-833f-fc86ae3a9e7a)
+## Eliminar libro:
+![image](https://github.com/user-attachments/assets/63ebcf37-77e2-4053-b068-0af5c45be719)
+
+✅ Conclusión
+Este proyecto representa un paso significativo hacia la digitalización de los servicios bibliotecarios del TESCo, mejorando la experiencia de estudiantes y personal académico mediante 
+una aplicación móvil moderna, eficiente y segura. Al integrar tecnologías como Android Studio y Azure Cosmos DB, se logra una solución escalable y accesible que responde a las 
+necesidades reales de la comunidad escolar. Con este desarrollo, se fortalece el compromiso institucional con la innovación tecnológica y la optimización de procesos educativos.
+
 
