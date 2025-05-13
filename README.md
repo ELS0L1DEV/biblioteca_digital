@@ -15,6 +15,46 @@ Mejia Morales Jonathan Mishel.
 
 ## Especificaciones:
 <br>
+📌 Casos de Uso (funcionalidades del sistema):
+1. Registrarse
+
+    Permite al Alumno crear una cuenta en el sistema.
+
+    Relación: <<extend>> desde Iniciar sesión (solo si no tiene cuenta).
+
+2. Iniciar sesión
+
+    Caso de uso necesario para acceder a otras funciones.
+
+    Accedido por: Alumno y Bibliotecario/Admin.
+
+    Incluye el caso de uso Menú Principal.
+
+3. Menú Principal
+
+    Punto de entrada a otras funcionalidades tras iniciar sesión.
+
+    Relación: <<include>> desde Iniciar sesión.
+
+4. Ver Catálogo de Libros
+
+    Permite al Alumno visualizar el catálogo de libros disponibles.
+
+5. Solicitar préstamo de libro
+
+    Permite al Alumno realizar una solicitud de préstamo.
+
+    Incluye el caso de uso Validar Préstamo.
+
+6. Ver solicitudes de préstamo
+
+    Permite al Alumno revisar el estado de sus solicitudes.
+
+7. Validar Préstamo
+
+    Acción que realiza el Bibliotecario/Admin para aprobar o rechazar las solicitudes.
+
+    Relación: <<include>> en Solicitar préstamo (porque siempre requiere validación).
 
 ## Introduccion
 Este proyecto consiste en el desarrollo de una aplicación móvil para la biblioteca del Tecnológico de Estudios Superiores de Coacalco (TESCo), 
