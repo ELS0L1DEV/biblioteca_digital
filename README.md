@@ -18,9 +18,9 @@ Mejia Morales Jonathan Mishel.
 📌 Casos de Uso (funcionalidades del sistema):
 1. Registrarse
 
-    Permite al Alumno crear una cuenta en el sistema.
+Permite al Alumno crear una cuenta en el sistema.
 
-    Relación: <<extend>> desde Iniciar sesión (solo si no tiene cuenta).
+Relación: <<extend>> desde Iniciar sesión (solo si no tiene cuenta).
 
 2. Iniciar sesión
 
