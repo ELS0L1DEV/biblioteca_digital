@@ -72,7 +72,8 @@ y registre el historial de préstamos de cada usuario, utilizando Android Studio
 
 
 ## Diagrama de caso de uso:
-![image](https://github.com/user-attachments/assets/d2ffd7d4-fd6d-49dd-8c53-f74afc438150)
+![Diagrama CU Biblioteca drawio](https://github.com/user-attachments/assets/7f89dba4-314c-4089-97ba-10e547241705)
+
 
 ## Tablas de flujo:
 <br>
